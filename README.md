@@ -4,10 +4,10 @@
 ### <div align="center">I'm a full-stack developer 👨‍💻 seeking employment 🚀</div> 
   
 <div align="center">
-- ❓ Ask me about anything related to MERN stack and related technologies  
+❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces in my personal projects  
+⚡ Fun fact: I use tabs over spaces in my personal projects  
 </div>
  
 <br/>  
