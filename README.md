@@ -1,15 +1,15 @@
 # <div align="center">Hi, I'm Daniel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px"></div>  
   
 
-### <div align="center">I'm a full-stack developer 👨‍💻 seeking employment 🚀
+### <div align="center">I'm a full-stack developer 👨‍💻 seeking employment 🚀</div> 
   
-
+<div align="center">
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces in my personal projects  
-  
-</div>  
+</div>
+ 
 <br/>  
 
 
