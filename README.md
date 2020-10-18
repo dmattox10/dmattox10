@@ -1,7 +1,7 @@
 # <div align="center">Hi, I'm Daniel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px"></div>  
   
 
-### <div align="center">I'm a full-stack developer 👨‍💻 seeking employment 🚀</div>  
+### <div align="center">I'm a full-stack developer 👨‍💻 seeking employment 🚀
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: I use tabs over spaces in my personal projects  
   
-
+</div>  
 <br/>  
 
 
@@ -79,10 +79,10 @@
 
 <br/>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dmattox10&show_icons=true&count_private=true&hide_border=true&theme=react" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dmattox10&show_icons=true&count_private=true&hide_border=true&theme=react" align="center" style="width: 100%" /> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmattox10&hide_border=true&layout=compact&langs_count=4&theme=react&hide_border=true" align="left" style="width: 100%" />  
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmattox10&hide_border=true&layout=compact&langs_count=4&theme=react&hide_border=true" align="center" style="width: 100%" />  
+</div> 
 <br/>  
 
   
