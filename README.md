@@ -68,10 +68,12 @@
 - Context API for state sharing
 - Hooks
 - React Router for SPA's
-- Express for REST
+<br />
+- Express for REST API
 - MongoDB with or without Mongoose
 - PassportJS for Authentication
-- 
+<br />
+- Whatever you use, I can learn it!
 
 
 
@@ -97,7 +99,7 @@
 </div> 
 <br/>  
 
-[Why Lambda?](/media/image.png)
+<img src="media/image.png" align="center" style="width: 100%" />
 
 <br/>  
 
