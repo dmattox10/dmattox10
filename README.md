@@ -100,6 +100,7 @@
 <br/>  
 
 <img src="media/image.png" align="center" style="width: 100%" />
+<p>Taken from a slide during lecture on Careers, this is a quote from a hiring manager who communicated with Lambda School about the quality of their program.</p>
 
 <br/>  
 
