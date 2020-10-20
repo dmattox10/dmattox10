@@ -81,7 +81,7 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dmattox10&show_icons=true&count_private=true&hide_border=true&theme=react" align="center" style="width: 100%" /> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmattox10&hide_border=true&layout=compact&langs_count=4&theme=react&hide_border=true" align="center" style="width: 100%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmattox10&hide_border=true&layout=compact&langs_count=8&theme=react&hide_border=true" align="center" style="width: 100%" />  
 </div> 
 <br/>  
 
