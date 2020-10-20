@@ -60,7 +60,19 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/>
+
+## Let me be specific, I would be an invaluable asset to your company working on:
+- React for a component based approach
+- Redux for state sharing
+- Context API for state sharing
+- Hooks
+- React Router for SPA's
+- Express for REST
+- MongoDB with or without Mongoose
+- PassportJS for Authentication
+- 
+
 
 
 ## Connect with me  
@@ -85,7 +97,7 @@
 </div> 
 <br/>  
 
-  
+[Why Lambda?](/media/image.png)
 
 <br/>  
 
