@@ -75,6 +75,13 @@
 <br />
 - Whatever you use, I can learn it!
 
+## My Projects that are currently deployed
+#### Harry Potter Sorting Hat
+Hosted on my private server [HERE](https://potter.danielmattox.com) explained by this [README](https://github.com/dmattox10/React-Sorting-Hat) in the repo.
+#### Conway's Game of Life
+Hosted on my private server [HERE](https://life.danielmattox.com) explained by this [README](https://github.com/dmattox10-lambda-CS2/GameOfLife) in the repo.
+#### Has My Password Been Leaked?
+Hosted on my private server [HERE](https://pw.danielmattox.com) explained by this [README](https://github.com/dmattox10-web26/React-Redux-App)
 
 
 ## Connect with me  
