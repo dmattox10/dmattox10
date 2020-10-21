@@ -80,7 +80,7 @@ Hosted on my private server [HERE](https://potter.danielmattox.com) explained by
 #### Conway's Game of Life
 Hosted on my private server [HERE](https://life.danielmattox.com) explained by this [README](https://github.com/dmattox10-lambda-CS2/GameOfLife) in the repo.
 #### Has My Password Been Leaked?
-Hosted on my private server [HERE](https://pw.danielmattox.com) explained by this [README](https://github.com/dmattox10-web26/React-Redux-App)
+Hosted on my private server [HERE](https://pw.danielmattox.com) explained by this [README](https://github.com/dmattox10-web26/React-Redux-App) in the repo.
 
 
 ## Connect with me  
