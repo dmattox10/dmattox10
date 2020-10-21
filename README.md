@@ -68,7 +68,6 @@
 - Context API for state sharing
 - Hooks
 - React Router for SPA's
-<br />
 - Express for REST API
 - MongoDB with or without Mongoose
 - PassportJS for Authentication
