@@ -1,7 +1,7 @@
 # <div align="center">Hi, I'm Daniel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px"></div>  
   
 
-### <div align="center">I'm a full-stack developer 👨‍💻 seeking employment 🚀</div> 
+### <div align="center">I'm a Full-Stack developer 👨‍💻 seeking employment 🚀</div> 
   
 <div align="center">
 ❓ Ask me about anything related to MERN stack and related technologies  
@@ -64,8 +64,8 @@
 
 ## Let me be specific, I would be an invaluable asset to your company working on:
 - React for a component based approach
-- Redux for state sharing
-- Context API for state sharing
+- Redux for state sharing/management
+- Context API for state sharing/management
 - Hooks
 - React Router for SPA's
 - Express for REST API
