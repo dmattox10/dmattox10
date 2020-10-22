@@ -78,12 +78,14 @@
 
 #### Miracle Messages Map
 During Lambda Labs I spent 2 months as part of a Full Stack team of 5 people working on the front and back end of the Miracle Messages Map, hosted [HERE](https://www.miraclemessages.org/impact). Lot's of debugging, working with databases and AWS, and learning and mastering new technologies quickly.
+#### Captai's Log
+Deployed on my private server but I will not be providing a demo, see the [README](https://github.com/dmattox10/captains-log) and repo for screenshots, description, and an explanation.
 #### Harry Potter Sorting Hat
-Hosted on my private server [HERE](https://potter.danielmattox.com) explained by this [README](https://github.com/dmattox10/React-Sorting-Hat) in the repo.
+Deployed on my private server [HERE](https://potter.danielmattox.com) explained by this [README](https://github.com/dmattox10/React-Sorting-Hat) in the repo.
 #### Conway's Game of Life
-Hosted on my private server [HERE](https://life.danielmattox.com) explained by this [README](https://github.com/dmattox10-lambda-CS2/GameOfLife) in the repo.
+Deployed on my private server [HERE](https://life.danielmattox.com) explained by this [README](https://github.com/dmattox10-lambda-CS2/GameOfLife) in the repo.
 #### Has My Password Been Leaked?
-Hosted on my private server [HERE](https://pw.danielmattox.com) explained by this [README](https://github.com/dmattox10-web26/React-Redux-App) in the repo.
+Deployed on my private server [HERE](https://pw.danielmattox.com) explained by this [README](https://github.com/dmattox10-web26/React-Redux-App) in the repo.
 
 
 ## Connect with me  
