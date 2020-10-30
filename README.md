@@ -113,14 +113,22 @@ Deployed on my private server [HERE](https://pw.danielmattox.com) explained by t
 <img src="media/image.png" align="center" style="width: 100%" />
 <p>Taken from a slide during lecture on Careers, this is a quote from a hiring manager who communicated with Lambda School about the quality of their program.</p>
 
+<br/>
+
+#### What you should know about me
+I submitted the following excerpts along with an application and really like that they asked these questions and want to share it with you!
+
+**What got you into software development? What do you love about it?**
+
+>I started with IT, building computers and configuring networks and am an A+ certified IT Technician. This however was a field that did not allow me to express any creativity at all, and I was quickly overcome with boredom in each position. Shortly after entering the industry I got married and had children, and I became a stay-at-home dad, allowing my wife's career to take the forefront. With my free time I tinkered with Electronic Circuit Design and Micro-Controller programming, and from there into creating Android Applications to communicate over Bluetooth with my creations. I had found my calling. I delved further into software development, but everything I made was quite honestly ugly. Once I discovered that I could define beautiful interfaces to JavaScript programs easily in HTML and CSS, I was literally in love. I devoted all of my time and resources to developing in this area, taking Udemy Courses and building projects, and decided that I wanted to do this for a living. Now that my children are in school, I have completed Lambda School, and am entering the Software Engineering industry formally, searching high and low for my first position.
+
+**Got anything else to add?**
+>I am an extremely fast learner, always enthralled with shiny new technologies. All of the projects listed on my Resume and GitHub as deployed, are hosted from my home server, right under my desk. I use Docker to run an Nginx Let's Encrypt secured proxy to make all of my projects available from custom subdomains, as well as other containers for my home network to use. I use a Hackintosh Computer that I constructed and configured myself to do all of my development, on a desk I built myself. I love projects, I love learning new things, I love creating. I would love to work for your company.
+
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=dmattox10&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
+</div>
 
 <br />
