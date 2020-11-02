@@ -98,6 +98,8 @@ Deployed on my private server [HERE](https://pw.danielmattox.com) explained by t
 </a>
 <a href="https://linkedin.com/in/dmattox10" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://danielmattox.com/Resume.pdf" target="_blank">
+<img src=https://img.shields.io/badge/my-resume-red&?style=for-the-badge&logo=about-dot-me alt="My Resume" style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
