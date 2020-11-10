@@ -77,7 +77,7 @@
 ## My Projects that are currently deployed
 
 #### Miracle Messages Map
-During Lambda Labs I spent 2 months as part of a Full Stack team of 5 people working on the front and back end of the Miracle Messages Map, hosted [HERE](https://www.miraclemessages.org/impact). Lot's of debugging, working with databases and AWS, and learning and mastering new technologies quickly.
+During Lambda Labs I spent 2 months as part of a Full Stack team of 5 people working on the front and back end of the Miracle Messages Map, hosted [HERE](https://www.miraclemessages.org/impact). Lot's of debugging, working with databases and AWS, and learning and mastering new technologies quickly. Working with the Stakeholder for this project, [Kevin F. Adler](https://twitter.com/kevinfadler) was one of the defining moments during my time at Lambda, it was an amazing experience and he has agreed to be a reference on my behalf as well!
 #### Captain's Log
 Deployed on my private server but I will not be providing a demo, see the [README](https://github.com/dmattox10/captains-log) and repo for screenshots, description, and an explanation.
 #### Harry Potter Sorting Hat
@@ -89,6 +89,8 @@ Deployed on my private server [HERE](https://pw.danielmattox.com) explained by t
 #### Daniel Mattox's Cool URL Shortener
 Deployed on my private server [HERE](https://shortt.danielmattox.com) explained by this [README](https://github.com/dmattox10/shortt) in the repo.
 
+## References
+In addition to [Kevin F. Adler](https://twitter.com/kevinfadler) of [MiracleMessages.org](https://miraclemessages.org), I have references from peers and overseers available on Searchlight [HERE](https://my.searchlight.ai/dmattox10)
 
 ## Connect with me  
 <div align="center">
