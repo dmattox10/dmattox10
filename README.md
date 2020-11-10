@@ -90,7 +90,7 @@ Deployed on my private server [HERE](https://pw.danielmattox.com) explained by t
 Deployed on my private server [HERE](https://shortt.danielmattox.com) explained by this [README](https://github.com/dmattox10/shortt) in the repo.
 
 ## References
-In addition to [Kevin F. Adler](https://twitter.com/kevinfadler) of [MiracleMessages.org](https://miraclemessages.org), I have references from peers and overseers available on Searchlight [HERE](https://my.searchlight.ai/dmattox10)
+In addition to [Kevin F. Adler](https://twitter.com/kevinfadler) of [MiracleMessages.org](https://miraclemessages.org), I have references from peers and supervisors available on Searchlight [HERE](https://my.searchlight.ai/dmattox10)
 
 ## Connect with me  
 <div align="center">
