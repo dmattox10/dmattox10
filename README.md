@@ -88,6 +88,8 @@ Deployed on my private server [HERE](https://life.danielmattox.com) explained by
 Deployed on my private server [HERE](https://pw.danielmattox.com) explained by this [README](https://github.com/dmattox10-web26/React-Redux-App) in the repo.
 #### Daniel Mattox's Cool URL Shortener
 Deployed on my private server [HERE](https://shortt.danielmattox.com) explained by this [README](https://github.com/dmattox10/shortt) in the repo.
+#### Daniel Mattox's Cool Site Status Checker
+Deployed on my private server [HERE](https://down.danielmattox.com) explained by this [README](https://github.com/dmattox10/IsItDown) in the repo.
 
 ## References
 In addition to [Kevin F. Adler](https://twitter.com/kevinfadler) of [MiracleMessages.org](https://miraclemessages.org), I have references from peers and supervisors available on Searchlight [HERE](https://my.searchlight.ai/dmattox10)
