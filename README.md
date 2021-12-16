@@ -79,6 +79,9 @@
 #### Miracle Messages Map
 During Lambda Labs I spent 2 months as part of a Full Stack team of 5 people working on the front and back end of the Miracle Messages Map, hosted [HERE](https://www.miraclemessages.org/impact). Lot's of debugging, working with databases and AWS, and learning and mastering new technologies quickly. Working with the Stakeholder for this project, [Kevin F. Adler](https://twitter.com/kevinfadler) was one of the defining moments during my time at Lambda, it was an amazing experience and he has agreed to be a reference on my behalf as well!
 
+
+#### React Hackernews Search with Redux
+Deployed on my private server [HERE](https://hn.danielmattox.com) explained by this [README](https://github.com/dmattox10/HN-Algolia) in the repo.
 #### Harry Potter Sorting Hat
 Deployed on my private server [HERE](https://magic.danielmattox.com) explained by this [README](https://github.com/dmattox10/React-Sorting-Hat) in the repo.
 #### Captain's Log
