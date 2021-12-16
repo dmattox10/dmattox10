@@ -22,3 +22,8 @@ Deployed on my private server [HERE](https://down.danielmattox.com) explained by
 **Got anything else to add?**
 >I am an extremely fast learner, always enthralled with shiny new technologies. All of the projects listed on my Resume and GitHub as deployed, are hosted from my home server, right under my desk. I use Docker to run an Nginx Let's Encrypt secured proxy to make all of my projects available from custom subdomains, as well as other containers for my home network to use. I use a Hackintosh Computer that I constructed and configured myself to do all of my development, on a desk I built myself. I love projects, I love learning new things, I love creating. I would love to work for your company.
 ```
+
+#### REMOVED
+<a href="https://danielmattox.com/Resume.pdf" target="_blank">
+<img src=https://img.shields.io/badge/my-resume-red&?style=for-the-badge&logo=about-dot-me alt="My Resume" style="margin-bottom: 5px;" />
+</a>  

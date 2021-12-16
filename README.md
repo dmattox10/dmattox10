@@ -78,6 +78,9 @@
 
 #### Miracle Messages Map
 During Lambda Labs I spent 2 months as part of a Full Stack team of 5 people working on the front and back end of the Miracle Messages Map, hosted [HERE](https://www.miraclemessages.org/impact). Lot's of debugging, working with databases and AWS, and learning and mastering new technologies quickly. Working with the Stakeholder for this project, [Kevin F. Adler](https://twitter.com/kevinfadler) was one of the defining moments during my time at Lambda, it was an amazing experience and he has agreed to be a reference on my behalf as well!
+
+#### Harry Potter Sorting Hat
+Deployed on my private server [HERE](https://magic.danielmattox.com) explained by this [README](https://github.com/dmattox10/React-Sorting-Hat) in the repo.
 #### Captain's Log
 Deployed on my private server but I will not be providing a demo, see the [README](https://github.com/dmattox10/captains-log) and repo for screenshots, description, and an explanation.
 
@@ -95,11 +98,9 @@ In addition to [Kevin F. Adler](https://twitter.com/kevinfadler) of [MiracleMess
 </a>
 <a href="https://linkedin.com/in/dmattox10" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-<a href="https://danielmattox.com/Resume.pdf" target="_blank">
-<img src=https://img.shields.io/badge/my-resume-red&?style=for-the-badge&logo=about-dot-me alt="My Resume" style="margin-bottom: 5px;" />
-</a>  
+
 </div>  
-  
+
 
 <br/>  
 
@@ -110,7 +111,7 @@ In addition to [Kevin F. Adler](https://twitter.com/kevinfadler) of [MiracleMess
 <br/>  
 
 <img src="media/image.png" align="center" style="width: 100%" />
-<p>Taken from a slide during lecture on Careers, this is a quote from a hiring manager who communicated with Lambda School about the quality of their program.</p>
+<p>Taken from a slide during a lecture on Careers, this is a quote from a hiring manager who communicated with Lambda School about the quality of their program.</p>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=dmattox10&&style=flat-square" align="center" />
