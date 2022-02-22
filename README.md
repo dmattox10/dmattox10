@@ -7,7 +7,7 @@
 ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-⚡ Fun fact: I use tabs over spaces in my personal projects  
+⚡ Fun fact: I've recently seen the light and now I uses spaces instead of tabs!
 </div>
  
 <br/>  
