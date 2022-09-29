@@ -1,3 +1,11 @@
+### 9/29/21
+#### REMOVED
+
+#### React Hackernews Search with Redux
+```
+Deployed on my private server [HERE](https://hn.danielmattox.com) explained by this [README](https://github.com/dmattox10/HN-Algolia) in the repo.
+```
+
 ### 11/14/21
 #### REMOVED
 ```
