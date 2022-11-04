@@ -1,3 +1,13 @@
+### 11/4/22
+#### REMOVED (TEMP)
+
+#### TacoMe React TacoTaco client
+Deployed via docker on my VPS [HERE](https://tacome.danielmattox.com) explained by this [README](https://github.com/dmattox10/tacome)
+#### MX-Auth microservice
+Deployed via docker on my VPS [HERE](https://auth.danielmattox.com) explained by this [README](https://github.com/dmattox10/mx-auth)
+#### Captain's Log fancy TODO
+Deployed via docker on my VPS [HERE](https://captain.danielmattox.com) explained by this [README](https://github.com/dmattox10/captains-log)x
+
 ### 9/29/21
 #### REMOVED
 
