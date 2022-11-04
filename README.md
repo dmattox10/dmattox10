@@ -79,7 +79,7 @@ In addition to [Kevin F. Adler](https://twitter.com/kevinfadler) of [MiracleMess
 ## Connect with me
 <div align="center">
 <a href="https://danielmattox.com" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=world&logoColor=white alt=github" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/website?color=%23a3be8c&down_color=%23bf616a&down_message=offline&logo=WEB&up_color=%234c566a&up_message=online&url=https%3A%2F%2Fdanielmattox.com" style="margin-bottom: 5px;" />
 <a href="https://github.com/dmattox10" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
