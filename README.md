@@ -17,7 +17,8 @@
 During Lambda Labs I spent 2 months as part of a Full Stack team of 5 people working on the front and back end of the Miracle Messages Map, hosted [HERE](https://www.miraclemessages.org/impact). Lot's of debugging, working with databases and AWS, and learning and mastering new technologies (mapbox!) quickly. Working with the Stakeholder for this project, [Kevin F. Adler](https://twitter.com/kevinfadler) was one of the defining moments during my time at Lambda, it was an amazing experience and he has agreed to be a reference on my behalf as well!
 
 
-#### Harry Potter Sorting Hat front-end SPA
+#### Harry Potter Sorting Hat front-end SPA 
+This was a Lambda School assignment that turned out very well and I will replace it soon due to politics
 Deployed via docker on my VPS [HERE](https://magic.danielmattox.com) explained by this [README](https://github.com/dmattox10/React-Sorting-Hat) in the repo.
 #### TacoTaco openAPI serving TacoFancy data
 Deployed via docker on my VPS[HERE](https://tacotaco.danielmattox.com) explained by this [README](https://github.com/dmattox10/tacotaco)
