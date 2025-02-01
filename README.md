@@ -1,15 +1,17 @@
 # <div align="center">Hi, I'm Daniel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px"></div>  
   
 
-### <div align="center">I'm a Full-Stack developer 👨‍💻🚀</div> 
+### <div align="center">I'm a JS Dev 👨‍💻🚀</div> 
   
 <div align="center">
-❓ Ask me about anything related MERN (MySql/MongoDB - Express - React - Node) stack and related technologies.
+❓ Ask me about anything related to MERN (MySql/MongoDB - Express - React - Node) stack and related technologies.
   </div>
  
 <br/>
 
-## References
+For the most up to date client testimonials and samples of my work in action visit my website: [DanTheMan.fyi](https://dantheman.fyi)
+
+## References from my time at LambdaSchool
 In addition to [Kevin F. Adler](https://twitter.com/kevinfadler) of [MiracleMessages.org](https://miraclemessages.org), I have references from peers and supervisors available on Searchlight [HERE](https://my.searchlight.ai/dmattox10)
 
 ## My Skill Set  
