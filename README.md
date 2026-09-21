@@ -24,7 +24,7 @@ These are products of my own studio, [Hyperspace Media Group](https://hyperspace
 | **[Moodiverse](https://apps.apple.com/us/app/moodiverse-digital-mood-ring/id6511244597)** | A digital mood ring. Entries grow into a 3D constellation you can rotate, with charts and a calendar. Private notes are encrypted under a key only the writer holds. Version 3 on the App Store, plus a [web version](https://web.moodiverse.app). | Live |
 | **[Super Partner](https://superpartner.app)** | Route settlement for vending and amusement operators. Collections, meters, commission splits and inventory, worked out to the cent, with a full import and re-settlement of the legacy system's history so an operator can audit it before trusting it. | Live |
 | **[STLibrarian](https://stlibrarian.com)** | A media library for 3D printing. Scans a folder of STLs, renders every model, groups the files that are one object, and measures what each will cost in resin. Nothing is moved, renamed or uploaded. | Live |
-| **LOS** | A hex strategy game in Godot whose opponents are behaviour trees, so it plays itself. A headless harness has been running whole matches for weeks, and every balance number came out of those matches. | In development |
+| **LOS** | A hex strategy game in Godot whose opponents are behaviour trees, so it plays itself and balances itself. There is a live match counter further down this page. | In development |
 
 ## What you can hire me for
 
@@ -67,7 +67,11 @@ Not the day job, and not a portfolio piece either. These are the ones that got f
 
 - **[Where From](https://wherefrom.danielmattox.com)** is playable right now. A construction deck for Welcome To..., for phones: it replaces the 81 physical cards while you keep playing on the paper score sheets you already own. Installs to the home screen and deals a hand with no signal at all. React, Vite, PWA, Capacitor.
 - **[RedWater](https://apps.apple.com/us/app/redwater/id6670454843)** is on the App Store. Small on purpose: the interesting part was never the mechanic, it was carrying a Unity build all the way to a public listing and keeping it there.
-- **LOS** is the current one, and the most fun of them. See above.
+- **LOS** is the current one, and the most fun of them. A hex strategy game in Godot whose opponents are behaviour trees, which means it can play itself. A headless harness runs whole matches between them, and every balance number in the game came out of those matches instead of out of an argument with myself about them.
+
+  ![bot-vs-bot matches](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgist.githubusercontent.com%2Fdmattox10%2Fc84e22a6e9a07caae3a8be1502505994%2Fraw%2Flos-playtesting.json&query=%24.published.matches&label=bot-vs-bot%20matches&suffix=%2B&color=2e7d5b&style=for-the-badge&cacheSeconds=300) ![simulated run time](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgist.githubusercontent.com%2Fdmattox10%2Fc84e22a6e9a07caae3a8be1502505994%2Fraw%2Flos-playtesting.json&query=%24.published.hours&label=simulated%20run%20time&suffix=%2B%20hrs&color=1b2a4a&style=for-the-badge&cacheSeconds=300) ![human-equivalent play, estimated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgist.githubusercontent.com%2Fdmattox10%2Fc84e22a6e9a07caae3a8be1502505994%2Fraw%2Flos-playtesting.json&query=%24.human_equivalent.table_hours&label=human-equivalent%20play&suffix=%20hrs%20%28est.%29&color=6b4e9e&style=for-the-badge&cacheSeconds=300)
+
+  Those three numbers are live. They are read straight from the [counter the harness publishes](https://gist.github.com/dmattox10/c84e22a6e9a07caae3a8be1502505994), which is the same file my own sites read, and the method is written up beside it. The match count and the run time are measured and deliberately rounded down. The human-equivalent figure is the only estimate of the three, which is why it says so.
 
 ## Why this profile looks quiet
 
@@ -75,7 +79,6 @@ Most of what I build is private or lives on my own Forgejo instance, so the repo
 
 What is public here is worth a look, though:
 
-- **[snes.css](https://github.com/dmattox10/snes.css)** is a retro CSS framework built on the aesthetics of 16-bit consoles. It dresses the kayak half of [dantheman.fyi](https://dantheman.fyi).
 - **[stlibrarian-releases](https://github.com/dmattox10/stlibrarian-releases)** holds the public STLibrarian builds, which anybody can download and run today.
 - **[SpriteSheet-Viewer](https://github.com/dmattox10/SpriteSheet-Viewer)**, **[TrafficLightStarter](https://github.com/dmattox10/TrafficLightStarter)** and the rest are the small tools and teaching pieces I keep in the open.
 
