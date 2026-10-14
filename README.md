@@ -23,7 +23,7 @@ These are products of my own studio, [Hyperspace Media Group](https://hyperspace
 | **[Journey](https://journey.hyperspacemediagroup.com)** | Booking and payments for one-person businesses. Real availability, card charged up front, automatic email and text confirmations, and an admin dashboard the owner controls. Running two live businesses. | Live |
 | **[Moodiverse](https://apps.apple.com/us/app/moodiverse-digital-mood-ring/id6511244597)** | A digital mood ring. Entries grow into a 3D constellation you can rotate, with charts and a calendar. Private notes are encrypted under a key only the writer holds. Version 3 on the App Store, plus a [web version](https://web.moodiverse.app). | Live |
 | **[Super Partner](https://superpartner.app)** | Route settlement for vending and amusement operators. Collections, meters, commission splits and inventory, worked out to the cent, with a full import and re-settlement of the legacy system's history so an operator can audit it before trusting it. | Live |
-| **[STLibrarian](https://stlibrarian.com)** | A media library for 3D printing. Scans a folder of STLs, renders every model, groups the files that are one object, and measures what each will cost in resin. Nothing is moved, renamed or uploaded. | Live |
+| **[STLibrarian](https://stlibrarian.com)** | A media library for 3D printing. Scans a folder of STLs, renders every model, groups the files that are one object, and measures what each will cost in resin. Nothing is moved, renamed or uploaded. Free software, MIT licensed, and the [whole source is here](https://github.com/dmattox10/STLibrarian). | Live |
 | **LOS** | A hex strategy game in Godot whose opponents are behaviour trees, so it plays itself and balances itself. There is a live match counter further down this page. | In development |
 
 ## What you can hire me for
@@ -73,14 +73,15 @@ Not the day job, and not a portfolio piece either. These are the ones that got f
 
   Those three numbers are live. They are read straight from the [counter the harness publishes](https://gist.github.com/dmattox10/c84e22a6e9a07caae3a8be1502505994), which is the same file my own sites read, and the method is written up beside it. The match count and the run time are measured and deliberately rounded down. The human-equivalent figure is the only estimate of the three, which is why it says so.
 
-## Why this profile looks quiet
+## What is public here
 
-Most of what I build is private or lives on my own Forgejo instance, so the repository list here is a poor sample of the work. The links above are the real portfolio: things with users, uptime and card payments behind them.
+One whole product, source and all:
 
-What is public here is worth a look, though:
-
-- **[stlibrarian-releases](https://github.com/dmattox10/stlibrarian-releases)** holds the public STLibrarian builds, which anybody can download and run today.
+- **[STLibrarian](https://github.com/dmattox10/STLibrarian)** is free software, MIT licensed. The Rust and Tauri desktop app, the server build that serves the same library to a browser on a NAS, the renderer, the website and the release pipeline. Not a sample of it and not a cut-down version: it is what ships. The [built downloads](https://github.com/dmattox10/stlibrarian-releases) are still a click away if you would rather just run it.
+- **[Where From](https://github.com/dmattox10/Where-From)** is the Welcome To... deck above, MIT as well, and playable in a browser without installing anything.
 - **[SpriteSheet-Viewer](https://github.com/dmattox10/SpriteSheet-Viewer)**, **[TrafficLightStarter](https://github.com/dmattox10/TrafficLightStarter)** and the rest are the small tools and teaching pieces I keep in the open.
+
+The rest is private or lives on my own Forgejo instance, so this list is still a thin sample of the work. The products at the top are the fuller portfolio: things with users, uptime and card payments behind them.
 
 ## Away from the keyboard
 
